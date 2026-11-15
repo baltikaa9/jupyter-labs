@@ -1,2 +1,5 @@
 .ipynb_checkpoints/
 __pycache__/
+
+# Generated PRNG samples and DieHarder logs.
+data/prng/
